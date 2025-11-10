@@ -39,7 +39,7 @@ This repository contains the comprehensive completion of *Assignment II* for the
 <div align="center">
 
 *Task 1 Completion Evidence*
-![Task 1 Screenshot](Task%201.jpg)
+![Task 1 Screenshot](Task-1.png)
 Blog post publication and technical content on dev.to platform
 
 </div>
@@ -69,7 +69,7 @@ Blog post publication and technical content on dev.to platform
 <div align="center">
 
 *Task 2 Completion Evidence*
-![Task 2 Screenshot](Task%202.jpg)
+![Task 2 Screenshot](Task-2.png)
 Kaggle discussion post on Parquet vs CSV analysis
 
 </div>
@@ -104,7 +104,7 @@ Kaggle discussion post on Parquet vs CSV analysis
 <div align="center">
 
 *Task 3 Completion Evidence*
-![Task 3 Screenshot](Task%203.jpg)
+![Task 3 Screenshot](Task-3.png)
 Google Cloud Skills labs completed with 100% assessment scores
 
 </div>
