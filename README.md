@@ -1,4 +1,4 @@
-# Cloud Data Analytics Journey 🚀
+# Cloud Data Analytics Journey 
 
 [![Cloud Analytics](https://img.shields.io/badge/Cloud-Analytics-007ACC?style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/)
 [![Google Cloud](https://img.shields.io/badge/Google-Cloud-4285F4?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
