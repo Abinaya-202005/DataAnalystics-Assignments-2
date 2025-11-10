@@ -1,8 +1,8 @@
-# Data Analytics in Cloud Computing - Assignment II
+# Cloud Data Analytics Journey 🚀
 
-[![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-blue?style=for-the-badge&logo=googlecloud)](https://cloud.google.com/)
-[![Data Analytics](https://img.shields.io/badge/Data-Analytics-green?style=for-the-badge&logo=databricks)](https://databricks.com/)
-[![Assignment Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/)
+[![Cloud Analytics](https://img.shields.io/badge/Cloud-Analytics-007ACC?style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/)
+[![Google Cloud](https://img.shields.io/badge/Google-Cloud-4285F4?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
+[![Data Science](https://img.shields.io/badge/Data-Science-FF4785?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEeSURBVDhPY/wPBAx4ACMjI14pBmTAxsYG58TExPxnZWVlePv2LVyQCZ/GzMxMBhEREQZkYGxszKCiogLnY9OIrAgZGBsbwyVBGpcvX85YUlLCwM3NDdZw7NgxsE3ozkQHykpKDNVVVQwTe3sZzp45w3Dt+nWGAG9vBiUlJQYZGRmwWpg+sBNBGtXV1RnkZGUZvn//znDq5EmGz58+MXz99o3hy5cvDPJycgyvXr1imDBhAoOfry9YM9ipoE4BaZQQF2f4+/cvw+NHjxiYmZkZGBkZGP78/cvw7t07Bm4uLoY7t28zXLhwAaw2JCSEQVxcHOxUsEaQ0+7evcvw4MEDsAuZmJgYvnz5AtYwf/58MA0DcKeCNGHThMuP2DQCADs7O1wjABs8I5FsRwvzAAAAAElFTkSuQmCC)](https://www.coursera.org/)
 
 ## Overview
 
